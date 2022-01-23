@@ -1,3 +1,24 @@
+address=/ad.mi.com/127.0.0.1
+address=/api.ad.xiaomi.com/127.0.0.1
+address=/t7z.cupid.ptqy.gitv.tv/127.0.0.1
+address=/sdkconfig.ad.xiaomi.com/127.0.0.1
+address=/stat.pandora.xiaomi.com/127.0.0.1
+address=/upgrade.mishop.pandora.xiaomi.com/127.0.0.1
+address=/logonext.tv.kuyun.com/127.0.0.1
+address=/config.kuyun.com/127.0.0.1
+address=/mishop.pandora.xiaomi.com/127.0.0.1
+address=/dvb.pandora.xiaomi.com/127.0.0.1
+address=/de.pandora.xiaomi.com/127.0.0.1
+address=/data.mistat.xiaomi.com/127.0.0.1
+address=/jellyfish.pandora.xiaomi.com/127.0.0.1
+address=/gallery.pandora.xiaomi.com/127.0.0.1
+address=/bss.pandora.xiaomi.com/127.0.0.1
+address=/gvod.aiseejapp.atianqi.com/127.0.0.1
+address=/sdkauth.hpplay.cn/127.0.0.1
+address=/adeng.hpplay.cn/127.0.0.1
+address=/ad.hpplay.cn/127.0.0.1
+address=/conf.hpplay.cn/127.0.0.1
+address=/fix.hpplay.cn/127.0.0.1
 address=/adcdn.hpplay.cn/127.0.0.1
 address=/sl.hpplay.cn/127.0.0.1
 address=/rp.hpplay.cn/127.0.0.1
@@ -76,7 +97,7 @@ address=/sngmta.qq.com/127.0.0.1
 address=/strategy.beacon.qq.com/127.0.0.1
 address=/dp3.qq.com/127.0.0.1
 address=/ad.qq.com/127.0.0.1
-# MITV above 
+# MITV above #
 address=/sm9t.ml/0.0.0.0
 address=/ud783c08.com/0.0.0.0
 address=/00-gov.cn/0.0.0.0
