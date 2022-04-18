@@ -95485,7 +95485,6 @@ mediav.com
 q1qfc323.com
 sdqoi2d.com
 tanx.com
-@@||s.click.taobao.com^$third-party,popup
 ||click.taobao.com/$third-party,popunder
 ||union.
 ||vamaker.com/$third-party
