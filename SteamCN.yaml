@@ -1,7 +1,7 @@
 payload:
   # 内容：SteamCN
   # 数量：65条
-  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN,epicgames-download1.akamaized.net
   - DOMAIN,benchmarks.ul.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
