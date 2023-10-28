@@ -1,6 +1,7 @@
 payload:
   # 内容：SteamCN
   # 数量：16条
+  - DOMAIN,akamaized.net
   - DOMAIN,benchmarks.ul.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
