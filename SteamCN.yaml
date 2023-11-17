@@ -1,6 +1,8 @@
 payload:
   # 内容：SteamCN
   # 数量：65条
+  - DOMAIN,myds.me
+  - DOMAIN,i234.me
   - DOMAIN,download.epicgames.com
   - DOMAIN,epicgames-download1.akamaized.net
   - DOMAIN,benchmarks.ul.com
