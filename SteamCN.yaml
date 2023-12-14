@@ -1,12 +1,12 @@
 payload:
   # 内容：SteamCN
   # 数量：65条
-  - DOMAIN,myds.me
-  - DOMAIN,synology.com
-  - DOMAIN,i234.me
-  - DOMAIN,download.epicgames.com
-  - DOMAIN,epicgames-download1.akamaized.net
-  - DOMAIN,benchmarks.ul.com
+  - DOMAIN-SUFFIX,myds.me
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,i234.me
+  - DOMAIN-SUFFIX,download.epicgames.com
+  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+  - DOMAIN-SUFFIX,benchmarks.ul.com
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
