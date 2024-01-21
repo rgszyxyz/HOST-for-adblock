@@ -1,8 +1,8 @@
 payload:
   # 内容：SteamCN
   # 数量：65条
-  #- DOMAIN-SUFFIX,tnt-ea.com
-  #- DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,myds.me
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,i234.me
