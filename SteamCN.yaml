@@ -1,6 +1,7 @@
 payload:
   # 内容：SteamCN
-  # 数量：65条
+  # 20240216
+  - IP-CIDR,1.1.1.1/24
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,myds.me
