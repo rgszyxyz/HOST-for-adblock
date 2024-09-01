@@ -1,6 +1,7 @@
 payload:
   # 内容：SteamCN
   # 20240901
+  - DOMAIN-SUFFIX,prod.depot.battle.net
   - DOMAIN-SUFFIX,prod.actual.battle.net
   - IP-CIDR,1.1.1.1/24
   - DOMAIN-SUFFIX,tnt-ea.com
